@@ -71,3 +71,24 @@ git clone https://github.com/johnleeDevelopersUK/EuroPal.git
 cd EuroPal
 npm install
 npm run dev
+
+🤝 Partnerships
+🏦 UniCredit Bank Romania (Financial instrument provider)
+
+🔄 EuroSwap DEX (FX liquidity engine)
+
+🛡️ ConSEC Audits (Smart contract security)
+
+🌍 AfriChain (Cross-border remittance network)
+
+📄 License
+This project is licensed under the MIT License.
+
+📫 Contact & Community
+📩 Email: johnlee.tradecorp.romania@gmail.com
+
+🌐 AfriChain Blog & Ecosystem
+
+💬 LinkedIn CEO Profile
+
+EuroPal — Building Europe’s Digital Financial Backbone.

@@ -1,0 +1,8 @@
+{
+  "name": "my-europal-wallet",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {}
+}
